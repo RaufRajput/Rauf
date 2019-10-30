@@ -1,0 +1,6 @@
+commit 952662064a3b71a19903e2b72e944d748f80ce4a (HEAD -> master, labb1)
+Author: Rauf Rajput <r.rajput@hotmail.com>
+Date:   Wed Oct 30 11:49:14 2019 +0100
+
+    labb1
+
